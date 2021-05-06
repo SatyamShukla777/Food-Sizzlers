@@ -61,7 +61,6 @@ body, html{
     padding: 5px;
   }
   .column1:hover{
-    box-shadow: 2px 2px white;
     flex: 40%;
     flex-direction: column;
   }
